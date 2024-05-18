@@ -22,3 +22,8 @@ After Starting Apache and MySQL in XAMPP, follow the following steps.
 After Creating Database,
 
 9th Step: Open a browser and go to URL “http://localhost/vehicle/”
+
+
+# FOR DEMO
+
+visit-https://drive.google.com/file/d/13vhJWKFbp5AX_CmEUyPjH1Nl478I6I3o/view?usp=sharing
